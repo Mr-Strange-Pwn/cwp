@@ -54,6 +54,13 @@ html, body {
     margin-top: 20px;
   }
   
+  .infoContainer{
+    border-top: 5px solid  greenyellow;
+    border-bottom: 2px solid greenyellow;
+    margin-top: 20px;
+    color: white;
+  }
+
   @media (min-width: 320px) and (max-width: 480px) {
     .joinOuterContainer {
       height: 100%;
